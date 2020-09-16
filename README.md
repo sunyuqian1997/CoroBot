@@ -5,6 +5,7 @@ This project aims to provide a way to communicate with the illusioinal, unfamili
 
 Video: https://vimeo.com/458150729
 
+
 ### Usage
 
 Visit [corobot.chat](corobot.chat) to start the conversation. Or run locally with local server.
@@ -12,6 +13,7 @@ Visit [corobot.chat](corobot.chat) to start the conversation. Or run locally wit
 Just type your message and send. It might take a minute to wake the bot up, so pls be patient. 
 
 Full sentences with Punctuation in the end will get better result.
+
 
 ### References
 
@@ -25,11 +27,13 @@ Full sentences with Punctuation in the end will get better result.
 
 [Tweets preprocessor](https://github.com/vasisouv/tweets-preprocessor#tweets-preprocessor)  for dataset parsing
 
+
 #### Dataset resources
 
 [Coronavirus tweets dataset](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset#files)
 
 [Threads from r/coronavirus in reddit](https://github.com/samar14641/reddit-covid)
+
 
 #### Research
 
